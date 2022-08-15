@@ -1,0 +1,25 @@
+body {
+
+    background-color: black}
+
+nav-link-active {
+    text-decoration: black;
+    color:black;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.575);
+}
+
+h2
+
+{
+    text-align: center;
+    color: aliceblue;
+}
+  P
+{
+    text-align: left;
+    color: aliceblue;
+    align-items: center;
+}    
